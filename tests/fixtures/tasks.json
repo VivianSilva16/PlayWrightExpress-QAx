@@ -1,0 +1,22 @@
+{
+    "success": {
+        "name": "comprar botas novas",
+        "is_done": false
+    },
+    "duplicate": {
+        "name": "comprar banana",
+        "is_done": false
+    },
+    "required": {
+
+        "name": "",
+        "is_done": false
+    },
+
+    "update": {
+        "name": "pagar o cartao",
+        "is_done": false
+    }
+  
+
+}
